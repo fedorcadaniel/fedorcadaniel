@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fedorcadaniel
 - 👀 I’m interested in software that enhances our abilities
 - 🌱 I’m currently learning how to think, how to learn and how to write good JavaScript code
-- 💞️ I’m looking to collaborate on notetaking software.
+- 💞️ I’m looking to collaborate on note-taking software.
 
 
 <!---
